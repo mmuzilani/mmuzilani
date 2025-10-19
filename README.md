@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Mahiuddin Zilani
 
-<!--
-**mmuzilani/mmuzilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Physics | 🔬 Researcher in Nuclear Astrophysics | 💻 Python Programmer  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about exploring how nuclear reactions influence stellar evolution and isotopic abundances.  
+Alongside my research, I develop and share Python scripts for data analysis, numerical simulation, and scientific visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Research Interests
+- Nuclear Astrophysics  
+- Stellar Nucleosynthesis 
+- Reaction Rate Calculations using TALYS  
+- Computational Modeling with MESA  
+
+---
+
+## 💻 Programming & Tools
+**Languages:** Python, Fortran, Bash  
+**Scientific Tools:** TALYS, MESA, NumPy, Matplotlib, Pandas, SymPy  
+**Other:** Git, Jupyter Notebook, Linux  
+---
+
+## 🌌 Recent Work
+🧬 Published research on *Actinium-225 radionuclides in targeted alpha therapy*  
+📊 Ongoing work on *Krypton isotope abundance using TALYS and MESA*  
+
+---
+
+## 📫 Contact
+📧 20201110@std.cu.ac.bd
+
+⭐ *"Exploring the cosmos through the language of data and the power of physics."*
