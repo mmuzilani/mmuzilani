@@ -59,7 +59,7 @@ I’m passionate about exploring how nuclear reactions influence stellar evoluti
 - **Programming:** Python (scientific modeling, simulations, data analysis)
 - **Nuclear Physics Codes:** TALYS, MESA, SkyNet, EMPIRE, SRIM
 - **Data Analysis & Visualization:** NumPy, SciPy, Matplotlib, Origin Pro
-- **Scientific Writing:** LaTeX, Mendeley
+- **Scientific Writing:** LaTeX
 - **Computing Environment:** Linux
 ---
 ## Honors & Awards
